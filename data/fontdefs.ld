@@ -1052,7 +1052,7 @@
     @Family { Arial }
     @Face { Base }
     @Name { ArialMT }
-    @Metrics { Ar-Bs }
+    @Metrics { Ar-Be }
     @Mapping { LtLatin1.LCM }
 }
 
